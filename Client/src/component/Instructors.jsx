@@ -50,31 +50,31 @@ const Instructors = () => {
             <Slider {...settings} className='overflow-hidden my-5'>
                 <div className=' p-3 flex flex-col items-center justify-center' >
                     <img src={i1} alt="i1" />
-                    <h1>Preetika Bhatnagar</h1>
+                    <h1 className='font-semibold text-xl'>Preetika Bhatnagar</h1>
                 </div>
                 <div className=' p-3 flex flex-col items-center justify-center' >
                     <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
+                    <h1 className='font-semibold text-xl'>Smarthya Bhatnagar</h1>
+                </div>
+                <div className=' p-3 flex flex-col items-center justify-center' >
+                    <img src={i1} alt="i1" />
+                    <h1 className='font-semibold text-xl'>Preetika Bhatnagar</h1>
                 </div>
                 <div className=' p-3 flex flex-col items-center justify-center' >
                     <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
-                </div>
-                <div className=' p-3 flex flex-col items-center justify-center' >
-                    <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
+                    <h1 className='font-semibold text-xl'>Smarthya Bhatnagar</h1>
                 </div>
                 <div className='p-3 flex flex-col items-center justify-center' >
-                    <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
+                    <img src={i1} alt="i1" />
+                    <h1 className='font-semibold text-xl'>Preetika Bhatnagar</h1>
                 </div>
                 <div className=' p-3 flex flex-col items-center justify-center' >
                     <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
+                    <h1 className='font-semibold text-xl'>Smarthya Bhatnagar</h1>
                 </div>
                 <div className=' p-3 flex flex-col items-center justify-center' >
                     <img src={i2} alt="i1" />
-                    <h1>Smarthya Bhatnagar</h1>
+                    <h1 className='font-semibold text-xl'>Preetika Bhatnagar</h1>
                 </div>
                
                

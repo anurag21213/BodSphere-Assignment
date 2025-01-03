@@ -8,6 +8,9 @@ import Instructors from '../component/Instructors'
 import Add from '../component/Add'
 import Review from '../component/Review'
 import Prizing from '../component/Prizing'
+import Recomended from '../component/Recomended'
+import Promo from '../component/Promo'
+import Footer from '../component/Footer'
 
 const Home = () => {
   return (
@@ -21,6 +24,9 @@ const Home = () => {
       <Add/>
       <Review/>
       <Prizing/>
+      <Recomended/>
+      <Promo/>
+      <Footer/>
     </div>
   )
 }
